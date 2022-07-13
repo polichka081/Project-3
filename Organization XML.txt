@@ -1,0 +1,16 @@
+ <Organization>
+    <Employee>
+         <laywer name = "Pavel Petrov">11</laywer>
+         <laywer name = "Katerina Petrova">15</laywer>
+         <accounter name = "Ivan Petrova">10</accounter>
+         <accounter name = "Olga Melnikova">13</accounter>
+         <manager name = "Maria Golubeva">12</manager>
+    </Employee>  
+     <HRDepartment>
+        <hr name = "Victor Nikolaevich">14</hr> 
+     </HRDepartment>
+    <Directors>
+        <director name = "Mihail Pavlov">1</director>
+        <director name = "Lidiya Viktorovna">2</director>
+    </Directors>
+</Organization>

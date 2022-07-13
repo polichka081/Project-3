@@ -1,0 +1,52 @@
+{
+  "employee": [
+    {
+      "name": "Ivan Petrov",
+      "position": "accounter",
+      "id": 10
+    },
+    {
+      "name": "Pavel Petrov",
+      "position": "laywer",
+      "id": 11
+    },
+    {
+      "name": "Maria Golubeva",
+      "position": "manager",
+      "id": 12
+    },
+    {
+      "name": "Olga Melnikova",
+      "position": "accounter",
+      "id": 13
+    },
+    {
+      "name": "Victor Nikolaevich",
+      "position": "hr",
+      "id": 14
+    },
+    {
+      "name": "Katerina Petrova",
+      "position": "laywer",
+      "id": 15
+    }
+  ],
+  "director": [
+    {
+      "name": "Mihail Pavlov",
+      "id": 1
+    },
+    {
+      "name": "Lidiya Viktorovna",
+      "id": 2
+    }
+  ],
+  "guest": [
+    {
+      "id": 1001
+    },
+    {
+      "id": 1002
+    }
+  ]
+}
